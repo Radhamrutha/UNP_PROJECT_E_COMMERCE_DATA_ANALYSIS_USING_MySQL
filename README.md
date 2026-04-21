@@ -16,4 +16,4 @@ I also explored order-level insights, including payment methods used, full order
 Overall, this project strengthened my ability to work with relational databases and apply SQL for real-world business analysis. It demonstrated how data-driven insights can support better decision-making, improve customer targeting, optimize product strategies, and enhance overall business performance.
 
 
-PROJECT FILE : https://drive.google.com/drive/folders/1uUMVUfOCF3jjoFPAHtz4LY4mQbkvtYhA?usp=sharing
+PROJECT FILE : https://drive.google.com/file/d/1Cwk7XB0bWDIDpkiE5IUAL4988ZN7awzF/view?usp=sharing
