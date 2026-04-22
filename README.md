@@ -1,4 +1,4 @@
-#UNP_PROJECT_E_COMMERCE_DATA_ANALYSIS_USING_MySQL 
+# UNP_PROJECT_E_COMMERCE_DATA_ANALYSIS_USING_MySQL 
 
 
 I worked on this project in collaboration with UNP, where the main goal was to analyze e-commerce data using MySQL and derive meaningful, actionable business insights. The dataset consists of multiple interconnected tables, including customers, orders, products, and sales details, which provided a comprehensive view of the overall business operations.
